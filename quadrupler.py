@@ -10,7 +10,7 @@ translation ={
 ",": ",<[-]<[-]<[-]>>>",
 ".": ".",
 ">": ">>>>>>",
-"<": ">>>>>>"
+"<": "<<<<<<"
 }
 def translate(program):
 	output = INIT + program
